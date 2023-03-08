@@ -1,0 +1,21 @@
+.add-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.add-form__label {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.add-form__input {
+  padding: 5px 10px;
+  width: 200px;
+}
+
+.add-form__btn {
+  padding: 5px 10px;
+  width: 100px;
+}
